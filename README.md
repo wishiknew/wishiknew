@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Vishnu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hey, I'm Vishnu Tej<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### Senior Full-Stack Engineer · 6+ Years · Bangalore, India
 
